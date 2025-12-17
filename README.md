@@ -19,22 +19,22 @@ Versatile Information and Communication Specialist with hands-on experience in w
 ## 📂 Portfolio Projects
 
 ### 🎨 UI/UX
-- [Project Name](link)
+- [ UI/UX Project](link)
 
 ### 🌐 Web Development
-- [Project Name](link)
+- [ Web Development Project](link)
 
 ### 🎨 Mobile Development
-- [Project Name](link)
+- [Mobile App Project](link)
 
 ### 🎨 Graphics
-- [Project Name](link)
+- [Graphic Project](link)
 
 ### 🔐 Cybersecurity
-- [Project Name](link)
+- [Cyber Defence Project](link)
 
 ### 🔐 Technical Support/Network engineering
-- [Project Name](link)
+- [Technical Support Project](link)
 ## 📫 Contact
 - Email:mosesmartins100@gmail.com
 - LinkedIn:https://www.linkedin.com/in/martins-moses-3644bb394/
