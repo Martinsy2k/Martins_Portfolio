@@ -30,18 +30,30 @@ Just tell me where you want to use it.
 - Graphic Design
 - UI/UX Design
 - Cybersecurity
+- Cloud Engineering
+- Network enginerring/Security
+- Mobile App Development
+- Technical Support 
 
 ## 📂 Portfolio Projects
+
+### 🎨 UI/UX
+- [Project Name](link)
 
 ### 🌐 Web Development
 - [Project Name](link)
 
-### 🎨 Graphics & UI/UX
+### 🎨 Mobile Development
+- [Project Name](link)
+
+### 🎨 Graphics
 - [Project Name](link)
 
 ### 🔐 Cybersecurity
 - [Project Name](link)
 
+### 🔐 Technical Support/Network engineering
+- [Project Name](link)
 ## 📫 Contact
 - Email:mosesmartins100@gmail.com
 - LinkedIn:https://www.linkedin.com/in/martins-moses-3644bb394/
